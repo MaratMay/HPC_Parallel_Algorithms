@@ -1,6 +1,6 @@
-# Университетский курс: Средства и системы параллельного программирования
+# University course: Parallel Programming Tools and Systems
+Reports on the optimization and acceleration of mathematical algorithms using:
 
-Отчеты по оптимизации и ускорению математических алгоритмов с использованием:
-- Распараллеливания вычислений
-- Векторизации операций для повышения производительности
-- Эффективного использования ресурсов процессора
+- Parallelization of calculations
+- Vectorization of operations to improve performance
+- Efficient use of processor resources
